@@ -1,0 +1,15 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brunooomelo/design-patterns.git",
+  "author": "brunooomelo <utibmelo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^25.2.2",
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
